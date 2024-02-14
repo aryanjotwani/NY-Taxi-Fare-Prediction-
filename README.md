@@ -1,1 +1,1 @@
-# NY-Taxi-Fare-Prediction-
+This project aims to predict taxi fares using a Random Forest algorithm. The Random Forest algorithm is a powerful machine learning technique capable of handling large datasets and capturing complex relationships between features and target variables. By leveraging this algorithm, we can accurately estimate taxi fares based on various factors such as distance, time of day, location, and additional surcharges.
